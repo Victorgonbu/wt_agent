@@ -1,4 +1,4 @@
-# Agents
+# WTAgent
 
 A modular [smolagents](https://github.com/huggingface/smolagents)
 `CodeAgent` with a Gradio chat interface, Gemini support, web search, current
